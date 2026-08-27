@@ -323,7 +323,7 @@
                 "last_commit": "2026-04-08T17:44:08Z",
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4253
+                "stars": 4254
               }
             },
             {
@@ -400,10 +400,10 @@
                 "archived": false,
                 "id": 125098880,
                 "language": "C++",
-                "last_commit": "2026-08-27T02:59:03Z",
+                "last_commit": "2026-08-27T18:11:26Z",
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 32663
+                "stars": 32666
               }
             }
           ],
@@ -447,7 +447,7 @@
                 "last_commit": "2026-08-27T07:47:58Z",
                 "owner": "Winetricks",
                 "repo": "winetricks",
-                "stars": 3519
+                "stars": 3520
               }
             }
           ],
@@ -502,7 +502,7 @@
                 "archived": false,
                 "id": 75029407,
                 "language": "C",
-                "last_commit": "2026-08-24T20:59:17Z",
+                "last_commit": "2026-08-27T21:02:31Z",
                 "owner": "collabora",
                 "repo": "libsurvive",
                 "stars": 925
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148366
+            "stars": 148390
           }
         }
       ],
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-27T10:32:37Z",
+            "last_commit": "2026-08-27T16:05:22Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 148682741,
             "language": "Go",
-            "last_commit": "2026-08-26T00:09:06Z",
+            "last_commit": "2026-08-27T19:00:12Z",
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
@@ -630,10 +630,10 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-25T18:18:07Z",
+            "last_commit": "2026-08-27T16:11:17Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33830
+            "stars": 33836
           }
         }
       ],
@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:16:18Z",
+                "last_commit": "2026-08-27T16:05:16Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:34:27Z",
+                "last_commit": "2026-08-27T17:25:39Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5264
+                "stars": 5265
               }
             }
           ],
@@ -846,10 +846,10 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:09:19Z",
+                "last_commit": "2026-08-27T20:37:47Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11700
+                "stars": 11701
               }
             },
             {
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9611
+                "stars": 9612
               }
             },
             {
@@ -876,7 +876,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:32:38Z",
+                "last_commit": "2026-08-27T16:36:37Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -894,7 +894,7 @@
                 "last_commit": "2026-08-27T09:24:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14328
+                "stars": 14332
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "last_commit": "2026-08-26T20:12:42Z",
                 "owner": "SELinuxProject",
                 "repo": "selinux",
-                "stars": 1619
+                "stars": 1620
               }
             },
             {
@@ -1027,7 +1027,7 @@
                 "last_commit": "2026-08-20T16:30:31Z",
                 "owner": "rfjakob",
                 "repo": "earlyoom",
-                "stars": 4245
+                "stars": 4246
               }
             },
             {
@@ -1069,7 +1069,7 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:37:04Z",
+                "last_commit": "2026-08-27T14:52:09Z",
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6309
@@ -1172,7 +1172,7 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:58:33Z",
+                "last_commit": "2026-08-27T13:32:48Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 9957
@@ -1217,10 +1217,10 @@
                 "archived": false,
                 "id": 206320938,
                 "language": "Go",
-                "last_commit": "2026-08-24T21:03:12Z",
+                "last_commit": "2026-08-27T21:14:51Z",
                 "owner": "google",
                 "repo": "differential-privacy",
-                "stars": 3347
+                "stars": 3348
               }
             },
             {
@@ -1250,7 +1250,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24037
+                "stars": 24041
               }
             },
             {
@@ -1262,10 +1262,10 @@
                 "archived": false,
                 "id": 97533515,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-10T09:21:34Z",
+                "last_commit": "2026-08-27T13:42:14Z",
                 "owner": "skorch-dev",
                 "repo": "skorch",
-                "stars": 6173
+                "stars": 6174
               }
             },
             {
@@ -1314,10 +1314,10 @@
                 "archived": false,
                 "id": 206320938,
                 "language": "Go",
-                "last_commit": "2026-08-24T21:03:12Z",
+                "last_commit": "2026-08-27T21:14:51Z",
                 "owner": "google",
                 "repo": "differential-privacy",
-                "stars": 3347
+                "stars": 3348
               }
             },
             {
@@ -1357,10 +1357,10 @@
                 "archived": false,
                 "id": 109145553,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:54:29Z",
+                "last_commit": "2026-08-27T17:07:42Z",
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32703
+                "stars": 32709
               }
             }
           ],
@@ -1400,10 +1400,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:13:32Z",
+                "last_commit": "2026-08-27T17:32:43Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6151
+                "stars": 6152
               }
             },
             {
@@ -1415,10 +1415,10 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-25T18:18:07Z",
+                "last_commit": "2026-08-27T16:11:17Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33830
+                "stars": 33836
               }
             },
             {
@@ -1430,7 +1430,7 @@
                 "archived": false,
                 "id": 148682741,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:09:06Z",
+                "last_commit": "2026-08-27T19:00:12Z",
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
@@ -1445,7 +1445,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:32:37Z",
+                "last_commit": "2026-08-27T16:05:22Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -1593,10 +1593,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-27T11:15:52Z",
+                "last_commit": "2026-08-27T19:21:20Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178669
+                "stars": 178676
               }
             }
           ],
@@ -1676,7 +1676,7 @@
                 "last_commit": "2026-08-15T09:29:59Z",
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3234
+                "stars": 3233
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7686
+                "stars": 7685
               }
             }
           ],
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:57.144Z",
+    "last_updated": "2026-08-27T21:19:36.708Z",
     "original_repository_info": {
       "archived": false,
       "id": 467723955,
