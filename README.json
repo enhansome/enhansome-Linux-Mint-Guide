@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "mikeroyal",
             "repo": "Linux-Mint-Guide",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         }
       ],
       "title": "A guide on setting up your Linux Mint Desktop with all the essential Applications, Tools, and Games to make your experience with Linux Mint great!"
@@ -308,8 +327,9 @@
                 "last_commit": "2024-08-18T15:48:39Z",
                 "owner": "Fmstrat",
                 "repo": "winapps",
-                "stars": 10252
-              }
+                "stars": 10256
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -323,8 +343,9 @@
                 "last_commit": "2026-04-08T17:44:08Z",
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4254
-              }
+                "stars": 4257
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -338,8 +359,9 @@
                 "last_commit": "2024-02-10T13:08:58Z",
                 "owner": "oguzhaninan",
                 "repo": "Stacer",
-                "stars": 9316
-              }
+                "stars": 9315
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -353,8 +375,9 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35285
-              }
+                "stars": 35284
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Google Chrome browser\nMicrosoft Edge browser\nVisual Studio Code\nMicrosoft Teams\nMicrosoft 365 with Office apps(formerly Office Online)\nGoogle Workspace (formerly G Suite)\nZoom\niCloud on Debian\npCloud is the secure cloud storage(like GoogleDrive), where you can store, share and work on all your files. You can access them on any device, anywhere you go.\nJitsi Meet is a fully encrypted, 100% open source video conferencing solution.\nCisco Webex Web App is the web based version of Cisco Webex video conferencing solution.\nSlack\nTrello\nSkype\nDiscord\nSpotify\nApple Music(Web) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.\nAdobe Lighroom Online photo editor is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.\nAdobe Spark(Web) is an application that let's you make cool Social Graphics, Short Videos, and Web Pages. Adobe account required to sign-in to app.\nPhotopea is an advanced online image editor supporting PSD, XCF, Sketch, XD and CDR formats. (Adobe Photoshop, GIMP, Sketch App, Adobe XD, CorelDRAW).\nMaster PDF Editor is straightforward, easy to use application for working with PDF documents equipped with powerful multi-purpose functionality. With Master PDF Editor you can easily view, create and modify PDF documents.\nCrossOver Linux® is a Microsoft Windows compatibility layer(based on WINE(Wine Is Not an Emulator)). The CrossOver compatibility layer enables thousands of Windows-based applications to run on Linux, macOS, or Chrome OS.\nDaVinci Resolve video editor is complete video editing solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool.\nReaper Audio editor is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.\nFlameshot is a powerful yet simple to use screenshot software.",
@@ -376,7 +399,8 @@
                 "owner": "AppImageCrafters",
                 "repo": "appimage-cli-tool",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "AppImageHub is a build and distribution service for AppImage applications.\nAppImage Forum",
@@ -400,11 +424,12 @@
                 "archived": false,
                 "id": 125098880,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:11:26Z",
+                "last_commit": "2026-08-28T20:55:31Z",
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 32666
-              }
+                "stars": 32675
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Get Steam\nOr",
@@ -426,7 +451,8 @@
                 "owner": "tkashkin",
                 "repo": "GameHub",
                 "stars": 2830
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "GameHub supports:",
@@ -448,7 +474,8 @@
                 "owner": "Winetricks",
                 "repo": "winetricks",
                 "stars": 3520
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "this is needed to avoid adobeair error",
@@ -476,7 +503,8 @@
                 "owner": "ValveSoftware",
                 "repo": "SteamVR-for-Linux",
                 "stars": 1064
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -491,7 +519,8 @@
                 "owner": "ValveSoftware",
                 "repo": "openvr",
                 "stars": 6642
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -506,7 +535,8 @@
                 "owner": "collabora",
                 "repo": "libsurvive",
                 "stars": 925
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -520,8 +550,9 @@
                 "last_commit": "2026-07-20T01:18:47Z",
                 "owner": "SimulaVR",
                 "repo": "Simula",
-                "stars": 3200
-              }
+                "stars": 3201
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "OpenVR Benchmark on Steam is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.\nOpenHMD is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.\nopenXR is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.\nMonado is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.",
@@ -546,8 +577,9 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148390
-          }
+            "stars": 148452
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         }
       ],
       "title": "Using Android and Android Apps on Linux"
@@ -567,8 +599,9 @@
             "last_commit": "2026-08-02T08:26:01Z",
             "owner": "robbert-vdh",
             "repo": "yabridge",
-            "stars": 4040
-          }
+            "stars": 4044
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         }
       ],
       "title": "Professional Audio & Video Editing"
@@ -585,11 +618,12 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-27T16:05:22Z",
+            "last_commit": "2026-08-28T02:51:47Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -604,7 +638,8 @@
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -619,7 +654,8 @@
             "owner": "Kubeinit",
             "repo": "kubeinit",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         },
         {
           "node_type": "item",
@@ -630,11 +666,12 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-27T16:11:17Z",
+            "last_commit": "2026-08-28T21:31:09Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33836
-          }
+            "stars": 33842
+          },
+          "first_seen": "2026-08-28T21:32:14.631Z"
         }
       ],
       "title": "Kubernetes"
@@ -657,7 +694,8 @@
                 "owner": "pop-os",
                 "repo": "tensorman",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -672,7 +710,8 @@
                 "owner": "plaidml",
                 "repo": "plaidml",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -686,8 +725,9 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556
-              }
+                "stars": 34557
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -702,7 +742,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -717,7 +758,8 @@
                 "owner": "NervanaSystems",
                 "repo": "ngraph",
                 "stars": 1344
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -732,7 +774,8 @@
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -747,7 +790,8 @@
                 "owner": "yahoo",
                 "repo": "CMAK",
                 "stars": 11925
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -758,11 +802,12 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:05:16Z",
+                "last_commit": "2026-08-28T17:05:35Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11131
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -773,11 +818,12 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:25:39Z",
+                "last_commit": "2026-08-28T20:05:12Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5265
-              }
+                "stars": 5266
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nKoalas is project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.\nApache Spark™ MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components:\nMLflow Tracking: Record and query experiments: code, data, config, and results.\nMLflow Projects: Package data science code in a format to reproduce runs on any platform.\nMLflow Models: Deploy machine learning models in diverse serving environments.\nModel Registry: Store, annotate, discover, and manage models in a central repository.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.",
@@ -805,7 +851,8 @@
                 "owner": "roboticslibrary",
                 "repo": "rl",
                 "stars": 1199
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -820,7 +867,8 @@
                 "owner": "intel",
                 "repo": "robot_devkit",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -834,8 +882,9 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18425
-              }
+                "stars": 18427
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -846,11 +895,12 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:37:47Z",
+                "last_commit": "2026-08-28T17:56:35Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11701
-              }
+                "stars": 11704
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -864,8 +914,9 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9612
-              }
+                "stars": 9613
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -876,11 +927,12 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:36:37Z",
+                "last_commit": "2026-08-28T14:26:24Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -891,11 +943,12 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:24:03Z",
+                "last_commit": "2026-08-28T12:56:49Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14332
-              }
+                "stars": 14334
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -909,8 +962,9 @@
                 "last_commit": "2026-08-16T16:53:49Z",
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 643
-              }
+                "stars": 644
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -925,7 +979,8 @@
                 "owner": "ms-iot",
                 "repo": "vscode-ros",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -940,7 +995,8 @@
                 "owner": "microsoft",
                 "repo": "Azure_Kinect_ROS_Driver",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1011,8 @@
                 "owner": "microsoft",
                 "repo": "ros_azure_iothub",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1027,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_onnx",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -985,7 +1043,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_luis",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "ROS is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.\nROS2 is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it’s all open source.\nRobot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.\nMoveIt is the most widely used software for manipulation and has been used on over 100 robots. It provides an easy-to-use robotics platform for developing advanced applications, evaluating new designs and building integrated products for industrial, commercial, R&D, and other domains.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nGazebo accurately and efficiently simulates indoor and outdoor robots. You get a robust physics engine, high-quality graphics, and programmatic and graphical interfaces.\nRobotics System Toolbox provides tools and algorithms for designing, simulating, and testing manipulators, mobile robots, and humanoid robots. For manipulators and humanoid robots, the toolbox includes algorithms for collision checking, trajectory generation, forward and inverse kinematics, and dynamics using a rigid body tree representation. For mobile robots, it includes algorithms for mapping, localization, path planning, path following, and motion control. The toolbox provides reference examples of common industrial robot applications. It also includes a library of commercially available industrial robot models that you can import, visualize, and simulate.\nArduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\nArduPilot enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.\nLight Detection and Ranging(LiDAR) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications (Laser Imaging), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.\nROS-Industrial is an open source project that extends the advanced capabilities of ROS software to manufacturing.\nAWS RoboMaker is the most complete cloud solution for robotic developers to simulate, test and securely deploy robotic applications at scale. RoboMaker provides a fully-managed, scalable infrastructure for simulation that customers use for multi-robot simulation and CI/CD integration with regression testing in simulation.\nMicrosoft Robotics Developer Studio is a free .NET-based programming environment for building robotics applications.",
@@ -1009,11 +1068,12 @@
                 "archived": false,
                 "id": 20648799,
                 "language": "C",
-                "last_commit": "2026-08-26T20:12:42Z",
+                "last_commit": "2026-08-28T20:09:30Z",
                 "owner": "SELinuxProject",
                 "repo": "selinux",
                 "stars": 1620
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1027,8 +1087,9 @@
                 "last_commit": "2026-08-20T16:30:31Z",
                 "owner": "rfjakob",
                 "repo": "earlyoom",
-                "stars": 4246
-              }
+                "stars": 4247
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1104,8 @@
                 "owner": "cilium",
                 "repo": "hubble",
                 "stars": 4315
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1120,8 @@
                 "owner": "cilium",
                 "repo": "certgen",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1069,11 +1132,12 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:52:09Z",
+                "last_commit": "2026-08-28T14:06:25Z",
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6309
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1088,7 +1152,8 @@
                 "owner": "google",
                 "repo": "schedviz",
                 "stars": 533
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1102,8 +1167,9 @@
                 "last_commit": "2026-01-21T15:31:40Z",
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6558
-              }
+                "stars": 6559
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1117,8 +1183,9 @@
                 "last_commit": "2026-08-01T11:03:53Z",
                 "owner": "getpatchwork",
                 "repo": "patchwork",
-                "stars": 314
-              }
+                "stars": 315
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1200,8 @@
                 "owner": "ruscur",
                 "repo": "snowpatch",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1147,8 +1215,9 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13537
-              }
+                "stars": 13538
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.\nControl Groups(Cgroups) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.\nLibgcrypt is a general purpose cryptographic library originally based on code from GnuPG.\nKali Linux is an open source project that is maintained and funded by Offensive Security, a provider of world-class information security training and penetration testing services.\nPi-hole is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software, intended for use on a private network. It is designed for use on embedded devices with network capability, such as the Raspberry Pi, but it can be used on other machines running Linux and cloud implementations.\nAircrack-ng is a network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool for 802.11 wireless LANs. It works with any wireless network interface controller whose driver supports raw monitoring mode and can sniff 802.11a, 802.11b and 802.11g traffic.\nBurp Suite is a leading range of cybersecurity tools.\nKernelCI is a community-based open source distributed test automation system focused on upstream kernel development. The primary goal of KernelCI is to use an open testing philosophy to ensure the quality, stability and long-term maintenance of the Linux kernel.\nContinuous Kernel Integration project helps find bugs in kernel patches before they are commited to an upstram kernel tree. We are team of kernel developers, kernel testers, and automation engineers.\neBPF is a revolutionary technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading kernel modules. By making the Linux kernel programmable, infrastructure software can leverage existing layers, making them more intelligent and feature-rich without continuing to add additional layers of complexity to the system.\nCilium uses eBPF to accelerate getting data in and out of L7 proxies such as Envoy, enabling efficient visibility into API protocols like HTTP, gRPC, and Kafka.\nIstio is an open platform to connect, manage, and secure microservices. Istio's control plane provides an abstraction layer over the underlying cluster management platform, such as Kubernetes and Mesos.\nScapy is a python-based interactive packet manipulation program & library.\noss-fuzz aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution.\nOSSEC is a free, open-source host-based intrusion detection system. It performs log analysis, integrity checking, Windows registry monitoring, rootkit detection, time-based alerting, and active response.\nMetasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.\nNmap is a security scanner used to discover hosts and services on a computer network, thus building a \"map\" of the network.\npfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.\nSnort is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.\nWireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.\nOpenSCAP is U.S. standard maintained by National Institute of Standards and Technology (NIST). It provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines. OpenSCAP maintains great flexibility and interoperability by reducing the costs of performing security audits. Whether you want to evaluate DISA STIGs, NIST‘s USGCB, or Red Hat’s Security Response Team’s content, all are supported by OpenSCAP.\nOWASP is an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.\nOpen Vulnerability and Assessment Language is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.\nClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.",
@@ -1172,11 +1241,12 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:32:48Z",
+                "last_commit": "2026-08-28T19:54:07Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9957
-              }
+                "stars": 9959
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1261,8 @@
                 "owner": "tensorflow",
                 "repo": "privacy",
                 "stars": 2026
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1277,8 @@
                 "owner": "google-parfait",
                 "repo": "tensorflow-federated",
                 "stars": 2448
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1217,11 +1289,12 @@
                 "archived": false,
                 "id": 206320938,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:14:51Z",
+                "last_commit": "2026-08-28T19:48:40Z",
                 "owner": "google",
                 "repo": "differential-privacy",
                 "stars": 3348
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1309,8 @@
                 "owner": "OpenMined",
                 "repo": "PyDP",
                 "stars": 550
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1250,8 +1324,9 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24041
-              }
+                "stars": 24043
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1341,8 @@
                 "owner": "skorch-dev",
                 "repo": "skorch",
                 "stars": 6174
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1281,7 +1357,8 @@
                 "owner": "IBM",
                 "repo": "differential-privacy-library",
                 "stars": 919
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1296,7 +1373,8 @@
                 "owner": "opendp",
                 "repo": "smartnoise-sdk",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "PennyLane is a cross-platform Python library for differentiable programming of quantum computers. By training a quantum computer the same way as a neural network.\nBoTorch is a library for Bayesian Optimization built on PyTorch.\nOpacus is a library that enables training PyTorch models with differential privacy. It supports training with minimal code changes required on the client, has little impact on training performance and allows the client to online track the privacy budget expended at any given moment.",
@@ -1314,11 +1392,12 @@
                 "archived": false,
                 "id": 206320938,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:14:51Z",
+                "last_commit": "2026-08-28T19:48:40Z",
                 "owner": "google",
                 "repo": "differential-privacy",
                 "stars": 3348
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1412,8 @@
                 "owner": "tensorflow",
                 "repo": "privacy",
                 "stars": 2026
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Differential Privacy Blog Series by the National Institute of Standards and Technology(NIST)\nApple's Differential Privacy Overview\nLearning with Privacy at Scale with Apple Machine Learning\nMicrosoft Research Differential Privacy Overview\nResponsible Machine Learning with Microsoft Azure\nResponsible AI Resources with Microsoft AI\nPreserve data privacy by using differential privacy and the SmartNoise package\nOpen Differential Privacy(OpenDP) Initiative by Microsoft and Harvard\nComputing Private Statistics with Privacy on Beam from Google Codelabs\nIntroducing TensorFlow Privacy: Learning with Differential Privacy for Training Data\nTensorFlow Federated: Machine Learning on Decentralized Data\nFederated Analytics: Collaborative Data Science without Data Collection\nLearning Differential Privacy from Harvard University Privacy Tools Project\nHarvard University Privacy Tools Project Courses & Educational Materials\nThe Weaknesses of Differential Privacy course on Coursera\nThe Differential Privacy of Bayesian Inference\nSimultaneous private learning of multiple concepts\nThe Complexity of Computing the Optimal Composition of Differential Privacy\nOrder revealing encryption and the hardness of private learning\nSAP HANA data anonymization using SAP Software Solutions\nSAP HANA Security using their In-Memory Database\nDEFCON Differential Privacy Training Launch\nSecure and Private AI course on Udacity\nDifferential Privacy - Security and Privacy for Big Data - Part 1 course on Coursera\nDifferential Privacy - Security and Privacy for Big Data - Part 2 course on Coursera\nCertified Ethical Emerging Technologist Professional Certificate course on Coursera",
@@ -1357,11 +1437,12 @@
                 "archived": false,
                 "id": 109145553,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:07:42Z",
+                "last_commit": "2026-08-28T20:35:01Z",
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32709
-              }
+                "stars": 32724
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation.\nGoogle Kubernetes Engine (GKE) is a managed, production-ready environment for deploying containerized applications.\nOpenShift is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.\nRancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.\nDocker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines.\nRook is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.\nRkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
@@ -1389,7 +1470,8 @@
                 "owner": "Kubeinit",
                 "repo": "kubeinit",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1400,11 +1482,12 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-27T17:32:43Z",
+                "last_commit": "2026-08-28T17:02:01Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6152
-              }
+                "stars": 6156
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1415,11 +1498,12 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-27T16:11:17Z",
+                "last_commit": "2026-08-28T21:31:09Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33836
-              }
+                "stars": 33842
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1434,7 +1518,8 @@
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1445,11 +1530,12 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T16:05:22Z",
+                "last_commit": "2026-08-28T02:51:47Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1464,7 +1550,8 @@
                 "owner": "Netflix",
                 "repo": "inviso",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1479,7 +1566,8 @@
                 "owner": "Netflix",
                 "repo": "Fenzo",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1494,7 +1582,8 @@
                 "owner": "Netflix",
                 "repo": "dynomite",
                 "stars": 4215
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1598,8 @@
                 "owner": "Netflix",
                 "repo": "dynomite",
                 "stars": 4215
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1614,8 @@
                 "owner": "Netflix",
                 "repo": "Raigad",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1630,8 @@
                 "owner": "Netflix",
                 "repo": "Priam",
                 "stars": 1039
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1553,8 +1645,9 @@
                 "last_commit": "2025-01-06T08:37:10Z",
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17091
-              }
+                "stars": 17092
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1662,8 @@
                 "owner": "restify",
                 "repo": "node-restify",
                 "stars": 10686
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "GitHub provides hosting for software development version control using Git. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.\nGitHub Codespaces is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code.\nGitHub Actions will automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.GitHub Actions for Azure you can create workflows that you can set up in your repository to build, test, package, release and deploy to Azure.Learn more about all other integrations with Azure.\nGitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.\nJenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.\nBitbucket is a web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. Bitbucket offers both commercial plans and free accounts. It offers free accounts with an unlimited number of private repositories. Bitbucket integrates with other Atlassian software like Jira, HipChat, Confluence and Bamboo.\nBamboo is a continuous integration (CI) server that can be used to automate the release management for a software application, creating a continuous delivery pipeline.\nCodecov is the leading, dedicated code coverage solution. It provides highly integrated tools to group, merge, archive and compare coverage reports. Whether your team is comparing changes in a pull request or reviewing a single commit, Codecov will improve the code review workflow and quality.\nDrone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.\nTravis CI is a hosted continuous integration service used to build and test software projects hosted at GitHub.\nCircle CI is a continuous integration and continuous delivery platform that helps software teams work smarter, faster.\nZuul-CI is a program that drives continuous integration, delivery, and deployment systems with a focus on project gating and interrelated projects. Using the same Ansible playbooks to deploy your system and run your tests.\nArtifactory is a Universal Artifact Repository Manager developed by JFrog. It supports all major packages, enterprise ready security, clustered, HA, Docker registry, multi-site replication and scalable.\nAzure DevOps is a set of services for teams to share code, track work, and ship software; CLIs Build, deploy, diagnose, and manage multi-platform, scalable apps and services; Azure Pipelines Continuously build, test, and deploy to any platform and cloud; Azure Lab Services Set up labs for classrooms, trials, development and testing, and other scenarios.\nTeam City is a build management and continuous integration server from JetBrains.\nShippable simplifies DevOps and makes it systematic with an Assembly Line platform that is heterogeneous, flexible, and provides complete visibility across your DevOps workflows.\nSpinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.\nAWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don't need to provision, manage, and scale your own build servers.\nSelenium is a free (open source) automated testing suite for web applications across different browsers and platforms.\nCucumber is a tool based on Behavior Driven Development (BDD) framework which is used to write acceptance tests for the web application. It allows automation of functional validation in easily readable and understandable format (like plain English) to Business Analysts, Developers, and Testers.\nJUnit is a unit testing framework for the Java programming language.\nMocha is a JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library.\nKarma is a simple tool that allows you to execute JavaScript code in multiple real browsers.\nJasmine is an open source testing framework for JavaScript. It aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax.\nMaven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation.\nGradle is an open-source build-automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.\nChef is an effortless Infrastructure Suite offers visibility into security and compliance status across all infrastructure and makes it easy to detect and correct issues long before they reach production.\nPuppet is an open source tool that makes continuous integration and delivery of your software on traditional or containerized infrastructure easy by pulling together all your existing tools and giving you flexibility to deploy your way.\nAnsible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.\nSalt is Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management. Supporting the \"Infrastructure as Code\" approach to data center system and network deployment and management, configuration automation, SecOps orchestration, vulnerability remediation, and hybrid cloud control.\nTerraform is an open-source infrastructure as code software tool created by HashiCorp.It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL), or optionally JSON.\nConsul is a service networking solution to connect and secure services across any runtime platform and public or private cloud.\nPacker is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.\nNomad is a highly available, distributed, data-center aware cluster and application scheduler designed to support the modern datacenter with support for long-running services, batch jobs, and much more.\nVagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time and increases production parity.\nVault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.\nCFEngine is an open-source configuration management system, written by Mark Burgess.Its primary function is to provide automated configuration and maintenance of large-scale computer systems, including the unified management of servers, desktops, consumer and industrial devices, embedded networked devices, mobile smartphones, and tablet computers.\nOctpus Deploy is the deployment automation server for your entire team, designed to make it easy to orchestrate releases and deploy applications, whether on-premises or in the cloud.\nAWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.\nKubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation.\nDocker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines.\nPowerShell/PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.\nHyper-V creates virtual machines on Windows 10. Hyper-V can be enabled in many ways including using the Windows 10 control panel, PowerShell or using the Deployment Imaging Servicing and Management tool (DISM).\nVMware vSphere Hypervisor is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.\nVMware vSphere is the industry-leading compute virtualization platform, and your first step to application modernization. It has been rearchitected with native Kubernetes to allow customers to modernize the 70 million+ workloads now running on vSphere.\nVMware Tanzu is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.\nRancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.\nRook is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.\nGoogle Kubernetes Engine (GKE) is a managed, production-ready environment for deploying containerized applications.\nAnthos is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments.\nAWS ECS is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines, or schedule containers on those virtual machines.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache Spark is a unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing.\nApache Hadoop is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.\nMicrosoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.\nAzure Functions is a solution for easily running small pieces of code, or \"functions,\" in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it.\nRkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.\nAWS Lambda is an event-driven, serverless computing platform provided by Amazon as a part of the Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code.\nHelm is the Kubernetes Package Manager.\nKubespray is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on AWS, GCE, Azure, OpenStack, vSphere, Packet (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal\nRed Hat OpenShift is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.\nOKD is a community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.\nOdo is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.\nKnative is a Kubernetes-based platform to build, deploy, and manage modern serverless workloads. Knative takes care of the operational overhead details of networking, autoscaling (even to zero), and revision tracking.\nEtcd is a distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. Etcd is used as the backend for service discovery and stores cluster state and configuration for Kubernetes.\nOpenStack is a free and open-source software platform for cloud computing, mostly deployed as infrastructure-as-a-service that controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API. OpenStack works with popular enterprise and open source technologies making it ideal for heterogeneous infrastructure.\nCloud Foundry is an open source, multi cloud application platform as a service that makes it faster and easier to build, test, deploy and scale applications, providing a choice of clouds, developer frameworks, and application services. It is an open source project and is available through a variety of private cloud distributions and public cloud instances.\nSplunk software is used for searching, monitoring, and analyzing machine-generated big data, via a Web-style interface.\nPrometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database (allowing for high dimensionality) built using a HTTP pull model, with flexible queries and real-time alerting.\nLoki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.\nThanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.\nContainer Storage Interface (CSI) is an API that lets container orchestration platforms like Kubernetes seamlessly communicate with stored data via a plug-in.\nOpenEBS is a Kubernetes-based tool to create stateful applications using Container Attached Storage.\nElasticSearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.\nLogstash is a tool for managing events and logs. When used generically, the term encompasses a larger system of log collection, processing, storage and searching activities.\nKibana is an open source data visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.\nNew Relic is a SaaS-based monitoring tool that fully supports the way DevOps teams work in the modern enterprise by streamlining your workflows with today's collaboration software and orchestration tools like Puppet, Chef, and Ansible.\nNagios is a free and open source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.\nSonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.\nGenie is a federated job orchestration engine developed by Netflix. Genie provides REST APIs to run a variety of big data jobs like Hadoop, Pig, Hive, Spark, Presto, Sqoop and more. It also provides APIs for managing the metadata of many distributed processing clusters and the commands and applications which run on them.\nFalcor is a JavaScript library for efficient data fetching. Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph, whether in memory on the client or over the network on the server.\nTraefik is an open source Edge Router that makes publishing your services a fun and easy experience. It receives requests on behalf of your system and finds out which components are responsible for handling them. What sets Traefik apart, besides its many features, is that it automatically discovers the right configuration for your services.\nJira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.\nPivotal Tracker is the agile project management tool of choice for developers around the world for real-time collaboration around a shared, prioritized backlog.\nTrello is a web-based Kanban-style list-making application that gives you perspective over all your projects, at work and at home.\nMicrosoft Teams is the hub for team collaboration in Office 365 that integrates the people, content, and tools your team needs to be more engaged and effective.\nSlack is a cloud-based proprietary instant messaging platform developed by Slack Technologies.\nOpsGenie is a cloud-based service for dev & ops teams, providing reliable alerts, on-call schedule management and escalations. OpsGenie integrates with monitoring tools & services, ensures the right people are notified.\nPagerduty automates processes built on best practices, allowing you to focus on higher value parts of incident response. Granular and scalable permissions enable teams to administer and operate independently while controlling visibility.\nVeracode is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, Veracode provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection.",
@@ -1593,11 +1687,12 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-27T19:21:20Z",
+                "last_commit": "2026-08-28T21:22:49Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178676
-              }
+                "stars": 178693
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Flutter Gems is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.\nDart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the Flutter framework.\nFlutter documentation\nCreating your first Flutter app\nBuild and release an Android app using Flutter\nFlutter Tools & techniques\nDart and Flutter: The Complete Developer's Guide on Udemy\nCreating an Interactive Story with Flutter on Coursera\nFlutter for Beginners course on Pluralsight\nFlutter Online Training Courses on LinkedIn Learning\nThe Complete Flutter App Development Bootcamp with Dart by App Brewery\nAdding Firebase to your Flutter app\nUsing Firebase and Firestore with Flutter\nFuchsia Project\nGetting Started with Fuchsia\nFuchsia Reference\nContributing to Fuchsia",
@@ -1618,8 +1713,9 @@
                 "last_commit": "2026-06-09T11:37:43Z",
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7192
-              }
+                "stars": 7191
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1634,7 +1730,8 @@
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
                 "stars": 5931
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1649,7 +1746,8 @@
                 "owner": "lukepighetti",
                 "repo": "fluro",
                 "stars": 3713
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.\nFlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services. You can follow an example that shows how to use these plugins in the Firebase for Flutter codelab.\nAppwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.",
@@ -1677,7 +1775,8 @@
                 "owner": "virt-manager",
                 "repo": "virt-manager",
                 "stars": 3233
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1691,8 +1790,9 @@
                 "last_commit": "2026-08-27T10:43:49Z",
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 842
-              }
+                "stars": 843
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             },
             {
               "node_type": "item",
@@ -1707,7 +1807,8 @@
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.\nQEMU is a fast processor emulator using a portable dynamic translator. QEMU emulates a full system, including a processor and various peripherals. It can be used to launch a different Operating System without rebooting the PC or to debug system code.\nHyper-V enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.\noVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.\nPacker is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.\nVagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past. It provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.\nVMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems; it enables users to set up virtual machines on a single physical machine, and use them simultaneously along with the actual machine.\nVirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers.",
@@ -1735,7 +1836,8 @@
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
                 "stars": 7685
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": "Azure SQL Database is the intelligent, scalable, relational database service built for the cloud. It’s evergreen and always up to date, with AI-powered and automated features that optimize performance and durability for you. Serverless compute and Hyperscale storage options automatically scale resources on demand, so you can focus on building new applications without worrying about storage size or resource management.\nAzure SQL Managed Instance is a fully managed SQL Server Database engine instance that's hosted in Azure and placed in your network. This deployment model makes it easy to lift and shift your on-premises applications to the cloud with very few application and database changes. Managed instance has split compute and storage components.\nAzure Synapse Analytics is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless or provisioned resources at scale. It brings together the best of the SQL technologies used in enterprise data warehousing, Spark technologies used in big data analytics, and Pipelines for data integration and ETL/ELT.\nMSSQL for Visual Studio Code is an extension for developing Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere with a rich set of functionalities.\nSQL Server Data Tools (SSDT) is a development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. With SSDT, a developer can design and deploy any SQL Server content type with the same ease as they would develop an application in Visual Studio or Visual Studio Code.\nBulk Copy Program is a command-line tool that comes with Microsoft SQL Server. BCP, allows you to import and export large amounts of data in and out of SQL Server databases quickly snd efficeiently.\nSQL Server Migration Assistant is a tool from Microsoft that simplifies database migration process from Oracle to SQL Server, Azure SQL Database, Azure SQL Database Managed Instance and Azure SQL Data Warehouse.\nSQL Server Integration Services is a development platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.\nSQL Server Business Intelligence(BI) is a collection of tools in Microsoft's SQL Server for transforming raw data into information businesses can use to make decisions.\nTableau is a Data Visualization software used in relational databases, cloud databases, and spreadsheets. Tableau was acquired by Salesforce in August 2019.\nDataGrip is a professional DataBase IDE developed by Jet Brains that provides context-sensitive code completion, helping you to write SQL code faster. Completion is aware of the tables structure, foreign keys, and even database objects created in code you're editing.\nRStudio is an integrated development environment for R and Python, with a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging and workspace management.\nMySQL is a fully managed database service to deploy cloud-native applications using the world's most popular open source database.\nPostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.\nAmazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.\nFoundationDB is an open source distributed database designed to handle large volumes of structured data across clusters of commodity servers. It organizes data as an ordered key-value store and employs ACID transactions for all operations. It is especially well-suited for read/write workloads but also has excellent performance for write-intensive workloads. FoundationDB was acquired by Apple in 2015.\nCouchbaseDB is an open source distributed multi-model NoSQL document-oriented database. It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.\nIBM DB2 is a collection of hybrid data management products offering a complete suite of AI-empowered capabilities designed to help you manage both structured and unstructured data on premises as well as in private and public cloud environments. Db2 is built on an intelligent common SQL engine designed for scalability and flexibility.\nMongoDB is a document database meaning it stores data in JSON-like documents.\nOracleDB is a powerful fully managed database helps developers manage business-critical data with the highest availability, reliability, and security.\nMariaDB is an enterprise open source database solution for modern, mission-critical applications.\nSQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.\nSQLite Database Browser is an open source SQL tool that allows users to create, design and edits SQLite database files. It lets users show a log of all the SQL commands that have been issued by them and by the application itself.\ndbWatch is a complete database monitoring/management solution for SQL Server, Oracle, PostgreSQL, Sybase, MySQL and Azure. Designed for proactive management and automation of routine maintenance in large scale on-premise, hybrid/cloud database environments.\nCosmos DB Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Cosmos DB database. It identifies over a dozen suspicious behaviors from your application’s interaction with Cosmos DB.\nAdminer is an SQL management client tool for managing databases, tables, relations, indexes, users. Adminer has support for all the popular database management systems such as MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.\nDBeaver is an open source database tool for developers and database administrators. It offers supports for JDBC compliant databases such as MySQL, Oracle, IBM DB2, SQL Server, Firebird, SQLite, Sybase, Teradata, Firebird, Apache Hive, Phoenix, and Presto.\nDbVisualizer is a SQL management tool that allows users to manage a wide range of databases such as Oracle, Sybase, SQL Server, MySQL, H3, and SQLite.\nAppDynamics Database is a management product for Microsoft SQL Server. With AppDynamics you can monitor and trend key performance metrics such as resource consumption, database objects, schema statistics and more, allowing you to proactively tune and fix issues in a High-Volume Production Environment.\nToad is a SQL Server DBMS toolset developed by Quest. It increases productivity by using extensive automation, intuitive workflows, and built-in expertise. This SQL management tool resolve issues, manage change and promote the highest levels of code quality for both relational and non-relational databases.\nLepide SQL Server is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.\nSequel Pro is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.",
@@ -1757,7 +1859,8 @@
                 "owner": "mikeroyal",
                 "repo": "Linux-Mint-Guide",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T21:32:14.631Z"
             }
           ],
           "description": null,
@@ -1769,7 +1872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:36.708Z",
+    "last_updated": "2026-08-28T21:32:14.631Z",
     "original_repository_info": {
       "archived": false,
       "id": 467723955,
